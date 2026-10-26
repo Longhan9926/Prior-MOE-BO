@@ -1,0 +1,415 @@
+{
+  "P1": {
+    "confidence": 0.2235,
+    "eta_terms": [
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0236,
+        "center": 20.0,
+        "width": 5.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0236,
+        "center": 10.0,
+        "width": 2.5
+      }
+    ],
+    "t80_terms": [
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 10.0,
+        "width": 6.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 4.0,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 5.46,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 8.33,
+        "width": 4.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 10.0,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 2.0,
+        "width": 2.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 20.0,
+        "width": 18.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 20.0,
+        "width": 18.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 20.0,
+        "width": 6.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.026,
+        "center": 20.0,
+        "width": 6.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 10.0,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0217,
+        "center": 2.0,
+        "width": 0.57
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 2.0,
+        "width": 0.75
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 20.0,
+        "width": 6.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 9.1,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0217,
+        "center": 20.0,
+        "width": 6.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 20.0,
+        "width": 12.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 3.0,
+        "width": 2.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 20.0,
+        "width": 6.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 12.5,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 12.5,
+        "width": 7.5
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 2.0,
+        "width": 0.2
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 10.0,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 2.0,
+        "width": 1.5
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 10.0,
+        "width": 6.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 5.0,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0202,
+        "center": 5.8,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.026,
+        "center": 10.0,
+        "width": 3.0
+      },
+      {
+        "dim": 0,
+        "type": "gauss",
+        "amplitude": 0.0246,
+        "center": 20.0,
+        "width": 12.0
+      }
+    ],
+    "confidence_eta": 0.9,
+    "confidence_t80": 0.7689655172413793
+  },
+  "P2": {
+    "confidence": 0.1486,
+    "eta_terms": [
+      {
+        "dim": 2,
+        "type": "sigmoid_rise",
+        "amplitude": -0.063,
+        "center": 400.0,
+        "width": 30.0
+      }
+    ],
+    "t80_terms": [
+      {
+        "dims": [
+          2,
+          3
+        ],
+        "type": "product_gauss",
+        "amplitude": 0.0609,
+        "center0": 400.0,
+        "width0": 60.0,
+        "center1": 6.0,
+        "width1": 2.0
+      },
+      {
+        "dims": [
+          2,
+          3
+        ],
+        "type": "product_gauss",
+        "amplitude": 0.0731,
+        "center0": 580.0,
+        "width0": 60.0,
+        "center1": 6.0,
+        "width1": 3.0
+      },
+      {
+        "dims": [
+          2,
+          3
+        ],
+        "type": "product_gauss",
+        "amplitude": 0.0966,
+        "center0": 400.0,
+        "width0": 40.0,
+        "center1": 6.0,
+        "width1": 2.0
+      }
+    ],
+    "confidence_eta": 0.85,
+    "confidence_t80": 0.7833333333333333
+  },
+  "P3": {
+    "confidence": 0.1775,
+    "eta_terms": [
+      {
+        "dim": 0,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0331,
+        "center": 2.0,
+        "width": 0.5
+      }
+    ],
+    "t80_terms": [
+      {
+        "dim": 0,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0396,
+        "center": 20.0,
+        "width": 2.0
+      },
+      {
+        "dim": 2,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0297,
+        "center": 580.0,
+        "width": 50.0
+      },
+      {
+        "dim": 0,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0224,
+        "center": 2.0,
+        "width": 0.5
+      },
+      {
+        "dim": 2,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0396,
+        "center": 580.0,
+        "width": 20.0
+      },
+      {
+        "dim": 2,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0396,
+        "center": 580.0,
+        "width": 10.0
+      },
+      {
+        "dim": 0,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0337,
+        "center": 2.0,
+        "width": 0.2
+      },
+      {
+        "dim": 0,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0198,
+        "center": 10.0,
+        "width": 2.0
+      },
+      {
+        "dim": 2,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0248,
+        "center": 580.0,
+        "width": 10.0
+      },
+      {
+        "dim": 0,
+        "type": "sigmoid_rise",
+        "amplitude": -0.0396,
+        "center": 15.0,
+        "width": 2.0
+      }
+    ],
+    "confidence_eta": 0.85,
+    "confidence_t80": 0.7785714285714286
+  },
+  "P4": {
+    "confidence": 0.1729,
+    "eta_terms": [
+      {
+        "dims": [
+          2,
+          3
+        ],
+        "type": "product_gauss",
+        "amplitude": 0.0396,
+        "center0": 580.0,
+        "width0": 80.0,
+        "center1": 6.0,
+        "width1": 2.0
+      }
+    ],
+    "t80_terms": [
+      {
+        "dims": [
+          2,
+          3
+        ],
+        "type": "product_gauss",
+        "amplitude": 0.0436,
+        "center0": 580.0,
+        "width0": 60.0,
+        "center1": 6.0,
+        "width1": 2.0
+      }
+    ],
+    "confidence_eta": 0.85,
+    "confidence_t80": 0.85
+  },
+  "P5": {
+    "confidence": 0.13,
+    "eta_terms": [
+      {
+        "dim": 1,
+        "type": "gauss",
+        "amplitude": 0.1083,
+        "center": 1.42,
+        "width": 0.3
+      }
+    ],
+    "t80_terms": [
+      {
+        "dim": 1,
+        "type": "gauss",
+        "amplitude": 0.1087,
+        "center": 1.42,
+        "width": 0.3
+      }
+    ],
+    "confidence_eta": 0.6,
+    "confidence_t80": 0.6
+  }
+}
